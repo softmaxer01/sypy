@@ -4,7 +4,6 @@
 #include <algorithm>
 #include <cmath>
 #include <random>
-#include <stdexcept>
 #include "sypy.h"
 
 namespace sypy {
